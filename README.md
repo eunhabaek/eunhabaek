@@ -1,5 +1,5 @@
-### Hi Welcome, i'm EUNHA BAEK 👋
-I love to create something with code 🌱
+### Hi Welcome, I'm EUNHA BAEK 👋
+### I love to create something with code 🌱
 
 ### 🛠️ Stacks
 
