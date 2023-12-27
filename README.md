@@ -1,4 +1,4 @@
-### Hi, I'm EUNHA BAEK
+### Hi, I'm Eunha Baek
 **I love to create something with code 🌱**
 
 
