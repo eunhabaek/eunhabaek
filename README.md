@@ -13,12 +13,14 @@
 <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>   
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 
-### 📖 Github Stats  
-[![Eunha's github stats](https://github-readme-stats.vercel.app/api?username=eunhabaek)](https://github.com/anuraghazra/github-readme-stats)
- 
 ### 🥈 Algorithm Level. 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beh1016)]([https://solved.ac/beh1016])  
+
+### 📖 Github Stats  
+[![Eunha's github stats](https://github-readme-stats.vercel.app/api?username=eunhabaek)](https://github.com/anuraghazra/github-readme-stats)
+ 
+
 
 <!--
 **eunhabaek/eunhabaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
