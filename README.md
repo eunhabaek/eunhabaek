@@ -13,6 +13,9 @@
 <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>   
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 
+### AWS Certification
+[![AWS Practitioner certification](aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/723f98f1-8440-4233-9394-a52a6bf8b147/public_url)
+
 ### 🥈 Algorithm Level. 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beh1016)]([https://solved.ac/beh1016])  
